@@ -1,7 +1,7 @@
 {
-  "name": "@chatwoot/utils",
+  "name": "@chatquick/utils",
   "version": "0.0.10",
-  "description": "Chatwoot utils",
+  "description": "Chatquick utils",
   "private": false,
   "license": "MIT",
   "main": "dist/index.js",
@@ -53,9 +53,9 @@
     "typescript": "^4.7"
   },
   "bugs": {
-    "url": "https://github.com/chatwoot/utils/issues"
+    "url": "https://github.com/chatquick/utils/issues"
   },
-  "homepage": "https://github.com/chatwoot/utils#readme",
+  "homepage": "https://github.com/chatquick/utils#readme",
   "dependencies": {
     "date-fns": "^2.29.1"
   }
